@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPLPractice", "TPLPractice\TPLPractice.csproj", "{1CADBD33-32BC-4D92-B2CC-461857A7CFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CADBD33-32BC-4D92-B2CC-461857A7CFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CADBD33-32BC-4D92-B2CC-461857A7CFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CADBD33-32BC-4D92-B2CC-461857A7CFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CADBD33-32BC-4D92-B2CC-461857A7CFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EEA9763-3F2C-41A5-8539-D846EBFB574B}
+	EndGlobalSection
+EndGlobal

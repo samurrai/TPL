@@ -1,0 +1,10 @@
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\bin\Debug\TPLPractice.exe.config
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\bin\Debug\TPLPractice.exe
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\bin\Debug\TPLPractice.pdb
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\bin\Debug\Newtonsoft.Json.dll
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\bin\Debug\Newtonsoft.Json.xml
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\obj\Debug\TPLPractice.csprojAssemblyReference.cache
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\obj\Debug\TPLPractice.csproj.CoreCompileInputs.cache
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\obj\Debug\TPLPractice.csproj.CopyComplete
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\obj\Debug\TPLPractice.exe
+c:\users\шадикьянр\source\repos\TPLPractice\TPLPractice\obj\Debug\TPLPractice.pdb
